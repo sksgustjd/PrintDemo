@@ -1,5 +1,5 @@
-name = "난현성=양현성"
-age = 20
+name = "Alice"
+age = 25
 score = 95.5
 
 print("Hello, Python!")
